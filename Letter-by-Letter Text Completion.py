@@ -14,6 +14,6 @@ def spam():
                 a += 1
                 i = 0
                 if r == m:
-                    print('başarılı.')
+                    print('All Done.')
                     return  
 spam()
